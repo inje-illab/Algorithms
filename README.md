@@ -55,8 +55,19 @@ main
 
 ### ✏️ 커밋 메시지
 - 양식 : `#<문제이슈번호> add: <풀이여부> 문제명`
-  - 풀이여부 : (PASS 시) solved, (FAIL ) unsolved
+- 풀이여부 : (PASS 시) solved, (FAIL ) unsolved
 - 예시 : #1 add: solved 아기상어
+
+
+<br> 
+
+### 🏷️ 라벨 규칙
+| 작성 범위 | 등록 라벨 | 설명 | 작성자 |
+| :----: | :---: | :---:| :---:|
+| Issue | Easy, Hard, Noaml | 책정 문제 난이도 | `@eona1301`
+| Pull Request | Easy, Hard, Nomal | 체감 문제 난이도 | 참여자 |
+| Pull Reuqest | C++, Java, JavaScript | 문제 풀이한 언어 | 참여자 |
+- Pull Request에는 체감 난도 1개 필수, 본인 풀이한 언어 최소 1개 필수입니다.
 
 <br> 
 
