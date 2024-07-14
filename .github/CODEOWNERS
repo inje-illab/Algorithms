@@ -1,0 +1,6 @@
+# .md 파일을 제외하기
+# Ignore .md files
+*.md
+
+# 모든 파일에 대해 @eona13을 리뷰어로 할당
+* @eona1301
